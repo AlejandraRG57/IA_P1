@@ -21,3 +21,17 @@ print(titulo) #Imprimimos la variable titulo
 
 titulo = "FELIZ NAVIDAD CON LOWER".lower() #Aqui asignamos el string a la variable titulo y a su vez le damos formato con .lower()
 print(titulo) #Imprimimos la variable titulo
+
+#Ejercicios
+
+#1
+Nombredelcurso = "enrique barros fernández".title() #Usamos el nombre que se nos dio y le ponermos la primera letra en mayusculas
+print(Nombredelcurso) #Imprimimos para verificar que este correcto
+
+#2
+Frasedelcurso = "Esta Es Una Frase Para Ser Formateada.".lower() #Usamos la frase que se nos dio y la ponemos completamente en minusculas
+print(Frasedelcurso) #Imprimimos para verificar que este correcto
+
+#3
+Frasedelcurso2 = "Esta Es Una Frase Para Ser Formateada.".upper() #Usamos la frase que se nos dio y la ponemos completamente en mayusculas
+print(Frasedelcurso2) #Imprimimos para verificar que este correcto
