@@ -8,7 +8,7 @@ vengadores.append("Wanda Maximof")#Este  metodo solo añadira el elemento nuevo 
 print(vengadores)#Verificamos que se haya añadido
 
 #Ejercicio
-#Nos pide añadir los colores fuxia y celeste a la lista
+#Nos pide añadir los colores fuxia y celeste a la lista que nos dieron
 print("\n Ejercicio 1 \n")#Le damos un subtitulo
 
 colores = ['rojo', 'azul', 'verde', 'amarillo', 'marrón', 'lila', 'negro', 'rosa', 'blanco', 'naranja']#Escribimos la lista que se nos dio
@@ -26,7 +26,7 @@ marvel.insert(-2,"Okoye")#Intentamos usar posiciones negativas
 print(marvel)#Verificamos que se hayan añadido
 
 #Ejercicio2
-#Nos pide añadir los colores magenta y turquesa a la lista en pociiones determinadas
+#Nos pide añadir los colores magenta y turquesa a la lista que nos dieron en pociiones determinadas
 print("\n Ejercicio 2 \n")#Le damos un subtitulo
 
 colores2 = ['rojo', 'azul', 'verde', 'amarillo', 'marrón', 'lila', 'negro', 'rosa', 'blanco', 'naranja']#Escribimos la lista que se nos dio
