@@ -16,8 +16,8 @@ print(sorted(vengadores))#Utilizamos el metodo sorted para que sea temporal su o
 print(vengadores)#Verificamos que no esten ordenados
 
 #Ejercicio 1
-#Nos piden ordenas esta lista en orden alfabetico inverso
-colores = ['rojo', 'azul', 'verde', 'amarillo', 'marrón', 'lila', 'negro', 'rosa', 'blanco', 'naranja']
+#Nos piden ordenar esta lista que nos dieron en orden alfabetico inverso
+colores = ['rojo', 'azul', 'verde', 'amarillo', 'marrón', 'lila', 'negro', 'rosa', 'blanco', 'naranja']#Escribimos la lista que nos dan
 colores.sort(reverse=True)#Utilizamos el metodo sort pero inverso
 print(colores)#Verificamos que este correcto
 
