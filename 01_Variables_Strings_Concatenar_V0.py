@@ -16,7 +16,7 @@ string = "-Hola mundo-" #A la variable "string" le almacenamos el string hola mu
 print(string) #Imprimimos el string
 string2 = '-Hola mundo-' #Tambien se pueden usar las comillas simples para los strings
 print(string2) #Imprimimos el string
-string3 = '"print()" se utiliza para imprimir valores en la consola.' #Los dos tipos de comillas sirven para poder usar las comillas dentro de un string
+string3 = '"print()" se utiliza para imprimir valores en la consola.' #Los dos tipos de comillas sirven para poder usar las comillas dentro de un string, usamos la oracion que se nos dio
 print(string3) #Imprimimos el string
 string4 = "-Hello world es 'hola mundo' en ingles-" #Tambien funciona al reves
 print(string4) #Imprimimos el string
