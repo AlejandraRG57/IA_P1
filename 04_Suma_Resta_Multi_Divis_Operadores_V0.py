@@ -13,24 +13,24 @@ print("Suma: ", sumar, "\nResta: " , restar , "\nMultiplicacion: " , multiplicar
 
 combinados = 7 + (9 / 5) - (3 * 4)
 print("Resultado de operacion 7 + 9 / 5 - 3 * 4: ", combinados)
-#Hacemos so de multiples simbolos aritmeticos y parentesis
+#Hacemos uso de multiples simbolos aritmeticos y parentesis
 
 #Ejercicios
 
 #1
-sumar87 = 20 + 23 + 7 + 17 + 8 + 2 + 10 #Nos pideun una suma cuyo resultado sea 87 y debe contener 20 y 23
+sumar87 = 20 + 23 + 7 + 17 + 8 + 2 + 10 #Nos piden una suma cuyo resultado sea 87 y debe contener 20 y 23
 print("Da 87?: ", sumar87)#Corroboramos resultado
 
 #2
-restar87 = - 20 - 23 - 7 - 17 - 8 - 2 - 10 #Nos pideun una resta cuyo resultado sea -87 y debe contener 20 y 23
+restar87 = - 20 - 23 - 7 - 17 - 8 - 2 - 10 #Nos piden una resta cuyo resultado sea -87 y debe contener 20 y 23
 print("Da -87?: ", restar87)#Corroboramos resultado
 
 #3
-multi870 = 20 * 23 + 10 * 41 #Nos pideun una multiplicacion cuyo resultado sea 870 y debe contener 20 y 23
+multi870 = 20 * 23 + 10 * 41 #Nos piden una multiplicacion cuyo resultado sea 870 y debe contener 20 y 23
 print("Da 870?: ", multi870)#Corroboramos resultado
 
 #4
-divi10 = ((5000 / 10)/ 230)* 5 #Nos pideun una division cuyo resultado sea 10 , puede tener decimales y debe contener 5000 y 230
+divi10 = ((5000 / 10)/ 230)* 5 #Nos piden una division cuyo resultado sea 10 , puede tener decimales y debe contener 5000 y 230
 print("Da 10?... puede tener decimales: ", divi10)#Corroboramos resultado
 
 #5
