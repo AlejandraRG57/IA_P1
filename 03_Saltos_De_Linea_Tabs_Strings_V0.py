@@ -14,5 +14,4 @@ print("Razones por las que tronare control:\n\t- Profesor\n\t- No formulario\n\t
 
 #->Ejercicio
 
-print("-Python.\n-JavaScript.\n-Java.\n-PHP.\n-TypeScript.\n-SQL.\n-COBOL.\n-HTML.\n-C#.\n-Rust.")
-#Hacemos una lista de lenguajes de programacion con un salto de linea despues de cada palabra
+print("-Python.\n-JavaScript.\n-Java.\n-PHP.\n-TypeScript.\n-SQL.\n-COBOL.\n-HTML.\n-C#.\n-Rust.") #Usamos la lista de lenguajes de programacion que se nos dio  con  saltos de linea despues de cada palabra, y agragamos nuevos lenguajes como se nos pidio
